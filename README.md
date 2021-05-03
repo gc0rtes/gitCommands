@@ -39,3 +39,12 @@ $ git clone git@github.com:user/my-project.git
 
 $ git clone git@github.com:user/my-project.git newRepoName
 
+
+8) IGNORING FILES
+
+create a .gitignore file.
+.gitignore is a text file you must create yourself. 
+
+Filenames inside .gitignore are ignored. Ex: fake.js
+
+Directories inside .gitignore are ignored entirely. You can mark directories by adding a / after their name. Ex: secret/
